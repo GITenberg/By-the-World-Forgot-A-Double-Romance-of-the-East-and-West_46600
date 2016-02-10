@@ -1,0 +1,30 @@
+_repo: By-the-World-Forgot-A-Double-Romance-of-the-East-and-West_46600
+contributor:
+  illustrator:
+    agent_name: Underwood, Clarence F.
+    gutenberg_agent_id: '7139'
+    url: http://www.gutenberg.org/2009/agents/7139
+covers:
+- cover_type: archival
+  image_path: 46600/46600-rst/images/img-cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Brady, Cyrus Townsend
+    birthdate: 1861
+    deathdate: 1920
+    gutenberg_agent_id: '5591'
+    url: http://www.gutenberg.org/2009/agents/5591
+    wikipedia: http://en.wikipedia.org/wiki/Cyrus_Townsend_Brady
+description: ''
+gutenberg_issued: '2014-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46600'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'By the World Forgot: A Double Romance of the East and West'
+url: http://www.gutenberg.org/ebooks/46600
